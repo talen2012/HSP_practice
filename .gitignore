@@ -1,4 +1,5 @@
 *.iml
-.idea
-out
+.idea/
+out/
+lib/
 gen
